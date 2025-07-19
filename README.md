@@ -1,5 +1,3 @@
-# Langchain-Currency-Converter
-A smart currency converter web app built with Streamlit, LangChain, and Mistral LLM. Converts currency in real-time using live exchange rates and tool-augmented reasoning.
 # 💱 Currency Converter using LLM + LangChain + Streamlit
 
 A smart currency converter web application that uses **LLMs (Mistral via LangChain)** to convert any amount between supported currencies using real-time exchange rates.
