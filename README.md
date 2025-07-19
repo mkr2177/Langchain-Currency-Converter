@@ -27,8 +27,12 @@ A smart currency converter web application that uses **LLMs (Mistral via LangCha
 
 ---
 
-## 📸 Demo Screenshot
+## 📸 Demo Screenshots
 
-![screenshot](screenshot(1376).png)
+### 🖼️ App Preview
 
----
+![Screenshot 1](Screenshot%20(1376).png)
+![Screenshot 2](Screenshot%20(1377).png)
+![Screenshot 3](Screenshot%20(1378).png)
+![Screenshot 4](Screenshot%20(1379).png)
+
